@@ -1,0 +1,40 @@
+<html>
+
+<head>
+        <link href="css/style.css" rel='stylesheet' type='text/css' />
+</head>
+
+
+<body>
+
+
+    <div class="container">
+
+
+        <ol>
+
+            <li>ALEXANDRU </li>
+            <li>BOGDAN</li>
+            <li>RALUCA</li>
+            <li>ANDREI</li>
+            <li>VIVIAN</li>
+            <li>TUDOR</li>
+            
+
+
+        </ol>
+
+
+
+    </div>
+
+    
+
+
+</body>
+
+
+
+
+
+</html>
